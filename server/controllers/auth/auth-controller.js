@@ -110,8 +110,8 @@ const logoutUser = (req, res) => {
 
 //auth middleware
 const authMiddleware = async (req, res, next) => {
-  const AuthHeader = req.headers['Authorization'];
-  const token = authHeader && authHeader.split(' ')[1];
+  const authHeader = req.headers['authorization']; // Corrected to lowercase 'authorization'
+  const token = authHeader && authHeader.split(' ')[1]; // Use the correct variable name
   if (!token)
     return res.status(401).json({
       success: false,
