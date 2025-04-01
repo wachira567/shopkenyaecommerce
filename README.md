@@ -17,6 +17,8 @@ Welcome to **ShopKenya**, a modern e-commerce platform designed to provide a sea
 - **Secure Payments:** Process payments securely using PayPal, ensuring a safe transaction experience.
 - **Image Management:** Upload and manage product images using Cloudinary for optimal performance.
 - **Admin Dashboard:** A dedicated interface for administrators to manage products, orders, and user accounts.
+- **Cookie Management:** Utilize cookies to enhance user experience by remembering user preferences and maintaining session states, allowing for a more personalized shopping experience.
+
 
 ## Technologies Used
 
