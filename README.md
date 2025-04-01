@@ -33,7 +33,7 @@ To get a local copy of the project up and running, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/shopkenya-ecommerce.git
+   git clone https://github.com/wachira567/shopkenyaecommerce.git
    ```
 
 2. **Navigate to the client directory:**
@@ -82,14 +82,6 @@ To test the admin dashboard, use the following credentials:
 - **Email:** admin@gmail.com
 - **Username:** admin
 - **Password:** admin
-
-## Screenshots
-
-![Homepage](path/to/screenshot1.png)
-_Homepage showcasing featured products._
-
-![Product Details](path/to/screenshot2.png)
-_Detailed view of a product with options to add to cart._
 
 ## Future Enhancements
 
