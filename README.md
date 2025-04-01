@@ -85,10 +85,8 @@ To test the admin dashboard, use the following credentials:
 
 ## Future Enhancements
 
-- Implement a review and rating system for products.
 - Add support for multiple payment gateways.
 - Enhance the user interface with more interactive elements.
-- Introduce a mobile application for better accessibility.
 
 ## Contributing
 
